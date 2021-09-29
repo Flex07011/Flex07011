@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flex07011
 - 👀 I’m interested in gameprogramming
-- 🌱 I’m currently learning the bsics of programming
+- 🌱 I’m currently learning the basics of programming
 - 📫 How to reach me gaming071@web.de
 
 <!---
